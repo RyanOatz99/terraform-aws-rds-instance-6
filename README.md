@@ -45,3 +45,7 @@ output "allowed_hosts" {
 output "wordpress_db_NAME" {
 	value = module.wordpress_db.DB_NAME
 }
+
+```
+
+
